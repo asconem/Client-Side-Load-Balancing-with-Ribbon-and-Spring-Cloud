@@ -1,0 +1,1 @@
+Builds a microservice application that uses Netflix Ribbon and Spring Cloud Netflix to provide client-side load balancing in calls to another microservice.
